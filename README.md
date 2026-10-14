@@ -3,7 +3,7 @@
 A fun and interactive **Fruit Matching Memory Card Game** built using HTML, CSS, and JavaScript. Flip the cards, find matching fruit pairs, and test your memory while enjoying this colorful game!
 
 ## 🌐 Live Demo
-[Play Memory Card Game](https://rituverma292.github.io/Memory-Card-Game/)
+[Play Memory Card Game]( https://rituverma292.github.io/Memory-Card-Game/)
 
 ## ✨ Features
 - 🍓 Colorful fruit cards
